@@ -66,7 +66,7 @@ Honours: Distinction, CGPA: 4.04
 
 
 ## Certificates
-I always seek to find ways to upskill and equip myself better for the demands of the workplace as a data/BI analyst by attending online courses. Here's a list of the ones I have completed:
+I always seek to find ways to upskill and equip myself better for the demands of the workplace as a data/BI analyst by taking online courses. Here's a list of the ones I have completed:
 
 - [Google Data Analytics Specialization](https://coursera.org/share/4a0cc2db68c82a73d0520c107fb50b28) (25 June 2026) (Coursera - Google)
 
