@@ -1,5 +1,5 @@
 ## About
-Hi, I'm Alex! I recently completed my Bachelor's Degree from Nanyang Technological University (NTU) majoring in Electrical & Electronic Engineering, with a specialization in Data Analysis & Machine Learning, and a minor in Business. I have developed a strong foundation in translating complex technical data into actionable business strategies. I am excited to bring my technical expertise and commercial acumen to the field of data analytics and business operations.
+Hi, I'm Alex! I recently completed my Bachelor's Degree from Nanyang Technological University (NTU), majoring in Electrical & Electronic Engineering with a specialization in Data Analysis & Machine Learning, and a minor in Business. I have developed a strong foundation in translating complex technical data into actionable business strategies. I am excited to bring my technical expertise and commercial acumen to the field of data analytics and business operations.
 
 During my studies and internship, I honed my ability to work with massive datasets and developed a keen eye for identifying operational bottlenecks. I gained hands-on experience in building end-to-end ETL pipelines with SQL and Python, designing interactive Tableau dashboards, and developing advanced neural networks in PyTorch, which I believe will be valuable assets in any data-driven role.
 
