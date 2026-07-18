@@ -5,7 +5,7 @@ During my studies and internship, I honed my ability to work with massive datase
 
 In my free time, I enjoy sharpening my analytical thinking through reading and applying structured logic to creative hobbies like playing the guitar and drawing. I also like to keep my mind fresh by being active through playing sports, especially football and badminton. I am eager to learn and always strive to be better everyday.
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Business Intelligence related topics.
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Business Intelligence (BI) related topics.
 
 You can find my resume [here](#about)
 
@@ -70,7 +70,7 @@ I always seek to find ways to upskill and equip myself better for the demands of
 
 - [Google Data Analytics Specialization](https://coursera.org/share/4a0cc2db68c82a73d0520c107fb50b28) (25 June 2026) (Coursera - Google)
 
-- [Google Business Intelligence Specialization](https://www.coursera.org/account/accomplishments/specialization/8DTDKVY17175?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (16 May 2026) (Coursera: Google)
+- [Google Business Intelligence Specialization](https://www.coursera.org/account/accomplishments/specialization/8DTDKVY17175?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (16 May 2026) (Coursera - Google)
 
 - [Business intelligence and data analytics: Generate insights](https://coursera.org/share/b17194dc7ae66af5ded03828e87b50e1) (1 July 2025) (Coursera - Macquarie University)
 
@@ -79,3 +79,5 @@ I always seek to find ways to upskill and equip myself better for the demands of
 Email: alexandersebastian2210@gmail.com
 
 LinkedIn: www.linkedin.com/in/alexandersc22
+
+WhatsApp: +65 8886 9726
