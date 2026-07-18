@@ -36,7 +36,7 @@ In this project, we study past data provide by TripAdvisor to find valuable insi
 ### NBA 2020 Season Analysis
 **Code:** [nba_2020_analysis.ipynb](https://github.com/alexandersc22/portfolio/blob/main/nba_2020_analysis.ipynb)
 
-**Description:**
+**Description:** In this project, we'll work with data from the 2020 NBA Season to perform Data Wrangling techniques, and then some analysis. We'll start by performing some Data Wrangling techniques to join the data from the season with that of players. We'll then perform different modifications and cleaning tasks to make sure our data is ready for analysis. Finally, we'll perform some analysis to find out deeper about the season.
 
 ### Premier League Match Analysis
 **Code:** [premier_league_match_analysis.ipynb](https://github.com/alexandersc22/portfolio/blob/main/premier_league_match_analysis.ipynb)
