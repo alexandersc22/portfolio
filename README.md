@@ -7,7 +7,7 @@ In my free time, I enjoy sharpening my analytical thinking through reading and a
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Business Intelligence (BI) related topics.
 
-You can find my resume [here](#about)
+You can find my resume [here](https://github.com/alexandersc22/portfolio/blob/main/AlexanderSC_Resume.pdf)
 
 
 ## Table of Contents
