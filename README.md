@@ -62,7 +62,7 @@ Specialization in Data Analysis & Machine Learning
 
 Minor in Business
 
-Honours: Distinction, CGPA: 4.04
+Honours (Distinction), CGPA: 4.04
 
 
 ## Certificates
