@@ -30,7 +30,7 @@ In this section I will list data analytics/business intelligence projects that I
 ### Hotel Ratings & Trip Type Analysis
 **Code:** [hotel_ratings_analysis.ipynb](https://github.com/alexandersc22/portfolio/blob/main/hotel_ratings_analysis.ipynb)
 
-**Description:** Hotel ratings can really make or break a business. High ratings attract more guests and boost revenue, while low ratings can scare people away. That's where data analysts come in. They analyze customer feedback and find ways to extract insights that can improve those ratings, which can make a huge difference.It's not just about finding these insights but also sharing them in a way that business executives can easily understand. That’s why making good visualizations is key.
+**Description:** Hotel ratings can really make or break a business. High ratings attract more guests and boost revenue, while low ratings can scare people away. That's where data analysts come in. They analyze customer feedback and find ways to extract insights that can improve those ratings, which can make a huge difference. It's not just about finding these insights but also sharing them in a way that business executives can easily understand. That’s why making good visualizations is key.
 In this project, we study past data provide by TripAdvisor to find valuable insights. We will delve into the details of creating captivating visuals that reveal the patterns and trends.
 
 ### NBA 2020 Season Analysis
