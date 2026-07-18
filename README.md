@@ -3,7 +3,7 @@ Hi, I'm Alex! I recently completed my Bachelor's Degree from Nanyang Technologic
 
 During my studies and internship, I honed my ability to work with massive datasets and developed a keen eye for identifying operational bottlenecks. I gained hands-on experience in building end-to-end ETL pipelines with SQL and Python, designing interactive Tableau dashboards, and developing advanced neural networks in PyTorch, which I believe will be valuable assets in any data-driven role.
 
-In my free time, I enjoy sharpening my analytical thinking through reading and applying structured logic to creative hobbies like playing the guitar and drawing. I also like to keep my mind fresh by being active through playing sports, especially football and badminton. I am always looking for opportunities to expand my technical toolkit and love tackling complex, high-stakes problems from the ground up. I am eager to learn and always strive to be better everyday.
+In my free time, I enjoy sharpening my analytical thinking through reading and applying structured logic to creative hobbies like playing the guitar and drawing. I also like to keep my mind fresh by being active through playing sports, especially football and badminton. I am eager to learn and always strive to be better everyday.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Business Intelligence related topics.
 
@@ -23,9 +23,9 @@ You can find my resume [here](#about)
 In this section I will list data analytics/business intelligence projects that I have done so far.
 
 ### Cyclistic Bike-Share BI Dashboard
-**Dashboard:** [cyclistic_tableau](https://public.tableau.com/app/profile/alexander.christianto/viz/Cyclistic_Dashboard_17843675229170/CyclisticExemplar)
+**Dashboard:** [cyclistic_tableau.twbx](https://public.tableau.com/app/profile/alexander.christianto/viz/Cyclistic_Dashboard_17843675229170/CyclisticExemplar)
 
-**Description:**
+**Description:** This project involved working as a business intelligence analyst for Cyclistic, a fictional bike-share company, where I applied BI skills to analyze customer trip data and provide insights to support business growth. I gathered stakeholder requirements, designed and developed an interactive dashboard to visualize key metrics such as trip demand by location, user types, and seasonal trends, while ensuring data privacy and accessibility. The project demonstrates my ability to translate complex data into actionable insights that inform strategic decisions and improve customer experience. 
 
 ### Hotel Ratings & Trip Type Analysis
 **Code:** [hotel_ratings_analysis.ipynb](https://github.com/alexandersc22/portfolio/blob/main/hotel_ratings_analysis.ipynb)
@@ -44,7 +44,7 @@ In this section I will list data analytics/business intelligence projects that I
 
 
 ## Internship
-Data Analyst Intern at Systems on Silicon Manufacturing Company (SSMC) (Jan 2025 - May 2025)
+**Data Analyst Intern at Systems on Silicon Manufacturing Company (SSMC) (Jan 2025 - May 2025)**
 - Evaluated and verified incoming material quality within the Supplier Quality Management team, ensuring strict 
 adherence to semiconductor manufacturing standards.
 - Conducted in-depth analysis of supplier performance metrics and material quality compliance utilizing Excel, SQL, and Tableau. 
