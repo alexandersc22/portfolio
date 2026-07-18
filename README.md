@@ -54,7 +54,7 @@ visibility for multiple cross-functional teams across the company.
 
 
 ## Education
-Nanyang Technological University, Singapore (2022-2026)
+**Nanyang Technological University, Singapore (2022-2026)**
 
 Bachelor's of Engineering in Electrical & Electronic Engineering
 
