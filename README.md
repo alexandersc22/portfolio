@@ -41,7 +41,7 @@ In this project, we study past data provide by TripAdvisor to find valuable insi
 ### Premier League Match Analysis
 **Code:** [premier_league_match_analysis.ipynb](https://github.com/alexandersc22/portfolio/blob/main/premier_league_match_analysis.ipynb)
 
-**Description:**
+**Description:** The Premier League is the top tier football/soccer competition in England, widely considered to be the most important league in the world. The objective of this project is to clean the data and subsequently analyze match results from different seasons to gain insights on the teams' performance.
 
 
 ## Internship
