@@ -22,11 +22,6 @@ You can find my resume [here](https://github.com/alexandersc22/portfolio/blob/ma
 ## Projects
 In this section I will list data analytics/business intelligence projects that I have done so far.
 
-### Cyclistic Bike-Share BI Dashboard (Tableau)
-**Dashboard:** [cyclistic_tableau.twbx](https://public.tableau.com/app/profile/alexander.christianto/viz/Cyclistic_Dashboard_17843675229170/CyclisticExemplar)
-
-**Description:** This project involved working as a business intelligence analyst for Cyclistic, a fictional bike-share company, where I applied BI skills to analyze customer trip data and provide insights to support business growth. I gathered stakeholder requirements, designed and developed an interactive dashboard to visualize key metrics such as trip demand by location, user types, and seasonal trends, while ensuring data privacy and accessibility. The project demonstrates my ability to translate complex data into actionable insights that inform strategic decisions and improve customer experience. 
-
 ### Hotel Ratings & Trip Type Analysis (Python)
 **Code:** [hotel_ratings_analysis.ipynb](https://github.com/alexandersc22/portfolio/blob/main/hotel_ratings_analysis.ipynb)
 
@@ -37,6 +32,11 @@ In this project, we study past data provide by TripAdvisor to find valuable insi
 **Code:** [instagram_analysis_sql](https://github.com/alexandersc22/portfolio/tree/main/instagram_analysis_sql)
 
 **Description:** This project provides a robust relational database model designed to replicate the core structure of a photo-sharing social media app, featuring seven interconnected tables for managing users, photos, hashtags, and engagement metrics. Beyond its structural design, the database serves as a comprehensive tool for advanced SQL analysis, enabling users to track registration growth, calculate engagement rates, identify inactive accounts, and detect activity anomalies such as bots or celebrity behavior to derive actionable business insights.
+
+### Cyclistic Bike-Share BI Dashboard (Tableau)
+**Dashboard:** [cyclistic_tableau.twbx](https://public.tableau.com/app/profile/alexander.christianto/viz/Cyclistic_Dashboard_17843675229170/CyclisticExemplar)
+
+**Description:** This project involved working as a business intelligence analyst for Cyclistic, a fictional bike-share company, where I applied BI skills to analyze customer trip data and provide insights to support business growth. I gathered stakeholder requirements, designed and developed an interactive dashboard to visualize key metrics such as trip demand by location, user types, and seasonal trends, while ensuring data privacy and accessibility. The project demonstrates my ability to translate complex data into actionable insights that inform strategic decisions and improve customer experience.
 
 ### NBA 2020 Season Analysis (Python)
 **Code:** [nba_2020_analysis.ipynb](https://github.com/alexandersc22/portfolio/blob/main/nba_2020_analysis.ipynb)
