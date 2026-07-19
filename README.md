@@ -22,23 +22,28 @@ You can find my resume [here](https://github.com/alexandersc22/portfolio/blob/ma
 ## Projects
 In this section I will list data analytics/business intelligence projects that I have done so far.
 
-### Cyclistic Bike-Share BI Dashboard
+### Cyclistic Bike-Share BI Dashboard (Tableau)
 **Dashboard:** [cyclistic_tableau.twbx](https://public.tableau.com/app/profile/alexander.christianto/viz/Cyclistic_Dashboard_17843675229170/CyclisticExemplar)
 
 **Description:** This project involved working as a business intelligence analyst for Cyclistic, a fictional bike-share company, where I applied BI skills to analyze customer trip data and provide insights to support business growth. I gathered stakeholder requirements, designed and developed an interactive dashboard to visualize key metrics such as trip demand by location, user types, and seasonal trends, while ensuring data privacy and accessibility. The project demonstrates my ability to translate complex data into actionable insights that inform strategic decisions and improve customer experience. 
 
-### Hotel Ratings & Trip Type Analysis
+### Hotel Ratings & Trip Type Analysis (Python)
 **Code:** [hotel_ratings_analysis.ipynb](https://github.com/alexandersc22/portfolio/blob/main/hotel_ratings_analysis.ipynb)
 
 **Description:** Hotel ratings can really make or break a business. High ratings attract more guests and boost revenue, while low ratings can scare people away. That's where data analysts come in. They analyze customer feedback and find ways to extract insights that can improve those ratings, which can make a huge difference. It's not just about finding these insights but also sharing them in a way that business executives can easily understand. That’s why making good visualizations is key.
 In this project, we study past data provide by TripAdvisor to find valuable insights. We will delve into the details of creating captivating visuals that reveal the patterns and trends.
 
-### NBA 2020 Season Analysis
+### Instagram Clone Database (SQL)
+**Code:** [instagram_analysis_sql](https://github.com/alexandersc22/portfolio/tree/main/instagram_analysis_sql)
+
+**Description:** This project provides a robust relational database model designed to replicate the core structure of a photo-sharing social media app, featuring seven interconnected tables for managing users, photos, hashtags, and engagement metrics. Beyond its structural design, the database serves as a comprehensive tool for advanced SQL analysis, enabling users to track registration growth, calculate engagement rates, identify inactive accounts, and detect activity anomalies such as bots or celebrity behavior to derive actionable business insights.
+
+### NBA 2020 Season Analysis (Python)
 **Code:** [nba_2020_analysis.ipynb](https://github.com/alexandersc22/portfolio/blob/main/nba_2020_analysis.ipynb)
 
 **Description:** In this project, we'll work with data from the 2020 NBA Season to perform Data Wrangling techniques, and then some analysis. We'll start by performing some Data Wrangling techniques to join the data from the season with that of players. We'll then perform different modifications and cleaning tasks to make sure our data is ready for analysis. Finally, we'll perform some analysis to find out deeper about the season.
 
-### Premier League Match Analysis
+### Premier League Match Analysis (Python)
 **Code:** [premier_league_match_analysis.ipynb](https://github.com/alexandersc22/portfolio/blob/main/premier_league_match_analysis.ipynb)
 
 **Description:** The Premier League is the top tier football/soccer competition in England, widely considered to be the most important league in the world. The objective of this project is to clean the data and subsequently analyze match results from different seasons to gain insights on the teams' performance.
