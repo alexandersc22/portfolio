@@ -48,7 +48,7 @@ In this project, we study past data provide by TripAdvisor to find valuable insi
 
 **Description:** The Premier League is the top tier football/soccer competition in England, widely considered to be the most important league in the world. The objective of this project is to clean the data and subsequently analyze match results from different seasons to gain insights on the teams' performance.
 
-### Final Year Project: AI-Driven Topological Structured Light for Advanced Optical Communication 
+### Final Year Project: AI-Driven Topological Structured Light for Advanced Optical Communication (Pytorch, Neural Network, MATLAB)
 **Final Report:** [FYP Final Report](https://github.com/alexandersc22/portfolio/blob/main/FYP%20Final%20Report.pdf)
 
 **Description:** This Final Year Project proposes an intelligent, software-defined Free-Space Optical (FSO) communication framework designed to overcome the severe signal degradation caused by atmospheric turbulence. Utilizing Orbital Angular Momentum (OAM) multiplexing to achieve ultra-high data capacity, the system replaces traditional, brittle optical hardware with two advanced deep learning paradigms: a PyTorch-based Inverse Design algorithm that autonomously sculpts complex holographic phase masks at the transmitter, and a Convolutional Neural Network (OAM-Net) that acts as a digital soft-demultiplexer to accurately decode distorted topological signals at the receiver.
