@@ -74,7 +74,7 @@ Specialization in Data Analysis & Machine Learning
 
 Minor in Business
 
-Honours (Distinction), CGPA: 4.04
+Honours (Distinction), CGPA: 4.04/5.0
 
 Transript [here](https://github.com/alexandersc22/portfolio/blob/main/official_transcript.pdf)
 
