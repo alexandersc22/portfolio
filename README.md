@@ -60,7 +60,9 @@ In this project, we study past data provide by TripAdvisor to find valuable insi
 adherence to semiconductor manufacturing standards.
 - Conducted in-depth analysis of supplier performance metrics and material quality compliance utilizing Excel, SQL, and Tableau. 
 - Designed and deployed interactive dashboards for real-time performance monitoring, improving data 
-visibility for multiple cross-functional teams across the company. 
+visibility for multiple cross-functional teams across the company.
+
+Certificate [here](https://github.com/alexandersc22/portfolio/blob/main/SSMC_Intern_Cert.pdf)
 
 
 ## Education
