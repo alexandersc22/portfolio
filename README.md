@@ -76,7 +76,7 @@ Minor in Business
 
 Honours (Distinction), CGPA: 4.04
 
-Degree Certificate [here](https://github.com/alexandersc22/portfolio/blob/main/degree_cert.pdf) & Transript [here](https://github.com/alexandersc22/portfolio/blob/main/official_transcript.pdf)
+Transript [here](https://github.com/alexandersc22/portfolio/blob/main/official_transcript.pdf)
 
 ## Certificates
 I always seek ways to upskill and equip myself better for the demands of the workplace as a Data/BI analyst by taking online courses. Here's a list of the ones I have completed:
